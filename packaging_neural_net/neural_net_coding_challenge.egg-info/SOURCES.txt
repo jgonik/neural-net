@@ -1,0 +1,7 @@
+README.md
+setup.py
+neural_net_challenge/__init__.py
+neural_net_coding_challenge.egg-info/PKG-INFO
+neural_net_coding_challenge.egg-info/SOURCES.txt
+neural_net_coding_challenge.egg-info/dependency_links.txt
+neural_net_coding_challenge.egg-info/top_level.txt
